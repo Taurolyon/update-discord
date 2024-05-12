@@ -1,0 +1,1 @@
+DPkg::Pre-Invoke {"echo 'Checking for Discord updates...'; /usr/local/bin/update-discord.sh; echo 'Discord update check complete.';"};
